@@ -1,4 +1,4 @@
-# Hotel Network Design and Implementation
+# Hotel Management System Network Design
 
 This project is a modern hotel network designed in Cisco Packet Tracer using VLANs, DHCP, WiFi, and OSPF routing.
 
